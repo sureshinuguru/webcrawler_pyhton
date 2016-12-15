@@ -1,7 +1,6 @@
 # webcrawler
 
-This is a simple, Python2 Web-Crawler for internal ,images and exclude external linkson a specific website or same domain, which creates a dictionary including the found pages.
-
+This is a simple, Python2 Web-Crawler for internal ,images which excludes external links on a specific website or same domain, which creates a dictionary including the found pages.
 
 ## Download
 * [**GitHub Releases**](https://github.com/sureshinuguru/webcrawler_python/releases)
